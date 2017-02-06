@@ -1,0 +1,13 @@
+{
+    "errors": [
+        "Food is missing a thumbnail image."
+    ],
+    "food": {
+        "origin": "Nepal",
+        "description": "Traditional Thakali Sausage made with himalayan goat intestines.",
+        "hot_chilli": true,
+        "stock_count": 2,
+        "slug": "thakali-sausages",
+        "title": "Thakali Sausages"
+    }
+}

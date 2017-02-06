@@ -1,0 +1,94 @@
+{
+    foods = [
+        {
+            鸞�6��nd]���z��}��2▒e|�-:P���hk��r���n�M�orޯ9T��d��ck�
+            "origin": " Australia",
+            "description": "lol. Good day mate. Chuck a shrimp on the barbie and ride Kangaroo when you go to school.",
+            "hot_chilli": true,
+            "stock_count": 2,
+            "image": "http://test-food-service/shrimp-on-the-barbie.png",
+            "slug": "shrimp-on-the-barbie",
+            "title": "Shrimp on the Barbie"
+        },
+        {
+            "origin": "Nepal",
+            "description": "Sick of eating rice. Try Nepalese Dhido with local Chickens and Garlic. Traditional Nepalese food for the worriers.",
+            "hot_chilli": true,
+            "stock_count": 3,
+            "image": "http://test-food-service/nepali-dhido.png",
+
+            "slug": "nepali-dhido",
+            "title": "Dhido"
+        },
+        {
+            "slug": "grass",
+            "title": "Food for Sheeps"
+        },
+        {
+            "origin": "China",
+            "description": "Traditional Chinese Yum Cha.",
+            "hot_chilli": true,
+            "stock_count": 24,
+            "image": "http://test-food-service/yum-cha.png",
+            "slug": "yum-cha",
+            "title": "Yum Cha"
+        },
+        {
+            "origin": "Vietnam",
+            "description": "Try a vietnamese century egg. Not sure if they are really preserved for 100 years but they call it century eggs.",
+            "hot_chilli": true,
+            "stock_count": 4,
+            "image": "http://test-food-service/vietnamese-century-eggs.png",
+            "slug": "vietnamese-century-eggs",
+            "title": "Vietnamese Century Eggs"
+        },
+        {
+            "origin": "Nepal",
+            "description": "Traditional Thakali Sausage made with himalayan goat intestines.",
+            "hot_chilli": true,
+            "stock_count": 2,
+            "image": "http://test-food-service/thakali-sausages.png",
+            "slug": "thakali-sausages",
+            "title": "Thakali Sausages"
+        },
+        {
+            "origin": "Tibet",
+            "description": "Traditional Tibetan dumplings in a Himalayan plum sauce.",
+            "hot_chilli": true,
+            "stock_count": 1,
+            "image": "http://test-food-service/momo-cha.png",
+            "slug": "momo-cha",
+            "title": "MoMo Cha"
+        },
+        {
+            "origin": "UK",
+            "description": "Forget about fat free this and fat free that. Eat a full fat organic English Pork Pie.",
+            "hot_chilli": true,
+            "stock_count": 0,
+            "image": "http://test-food-service/english-pork-pie.png",
+            "slug": "english-pork-pie",
+            "title": "Two and a Half Men"
+        },
+        {
+            "origin": "Korea",
+            "description": "King of spicy pickles. Eat kimchi and be healthy.",
+            "hot_chilli": true,
+            "stock_count": 1,
+            "image": "http://test-food-service/kim-chi.png",
+            "slug": "kim-chi",
+            "title": "Traditional Home Made Korean Kimchi"
+        },
+        {
+            "origin": "Japan",
+            "description": "Japanese sandwich, just the shape is different. Hahaha just kidding.",
+            "hot_chilli": false,
+            "stock_count": 0,
+            "image": "http://test-food-service/sushi.png",
+            "slug": "sushi",
+            "title": "Japanese Sushi"
+        }
+    ],
+    "skip": 0,
+    "take": 10,
+    "totalFoods": 124
+}

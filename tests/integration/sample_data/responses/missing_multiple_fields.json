@@ -1,0 +1,15 @@
+{
+    "errors": [
+        "Food is missing a thumbnail image.",
+        "Food is missing slug.",
+        "Food is missing title."
+    ],
+    "food": {
+        "origin": " Australia",
+        "description": "lol. Good day mate. Chuck a shrimp on the barbie and ride Kangaroo when you go to school.",
+        "hot_chilli": true,
+        "stock_count": 2,
+        "slug-with-typo": "shrimp-on-the-barbie",
+        "food-title": "Shrimp on the Barbie"
+    }
+}

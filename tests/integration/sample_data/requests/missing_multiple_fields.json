@@ -1,0 +1,29 @@
+{
+    "foods": [
+        {
+            "origin": " Australia",
+            "description": "lol. Good day mate. Chuck a shrimp on the barbie and ride Kangaroo when you go to school.",
+            "hot_chilli": true,
+            "stock_count": 2,
+            "slug-with-typo": "shrimp-on-the-barbie",
+            "food-title": "Shrimp on the Barbie"
+        },
+        {
+            "origin": "Nepal",
+            "description": "Sick of eating rice. Try Nepalese Dhido with local Chickens and Garlic. Traditional Nepalese food for the worriers.",
+            "hot_chilli": true,
+            "stock_count": 3,
+            "image": "http://test-food-service/nepali-dhido.png",
+
+            "slug": "nepali-dhido",
+            "title": "Dhido"
+        },
+        {
+            "slug": "grass",
+            "title": "Food for Sheeps"
+        }
+    ],
+    "skip": 0,
+    "take": 3,
+    "totalFoods": 124
+}

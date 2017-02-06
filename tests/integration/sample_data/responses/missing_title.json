@@ -1,0 +1,14 @@
+{
+    "errors": [
+        "Food is missing title."
+    ],
+    "food": {
+        "origin": "Tibet",
+        "description": "Traditional Tibetan dumplings in a Himalayan plum sauce.",
+        "hot_chilli": true,
+        "stock_count": 1,
+        "image": "http://test-food-service/momo-cha.png",
+        "slug": "momo-cha",
+        "food-title": "MoMo Cha"
+    }
+}

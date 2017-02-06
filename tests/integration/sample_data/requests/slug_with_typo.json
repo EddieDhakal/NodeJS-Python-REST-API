@@ -1,0 +1,16 @@
+{
+    "foods": [
+        {
+            "origin": " Australia",
+            "description": "lol. Good day mate. Chuck a shrimp on the barbie and ride Kangaroo when you go to school.",
+            "hot_chilli": true,
+            "stock_count": 2,
+            "image": "http://test-food-service/shrimp-on-the-barbie.png",
+            "slug-with-typo": "shrimp-on-the-barbie",
+            "title": "Shrimp on the Barbie"
+        }
+    ],
+    "skip": 0,
+    "take": 1,
+    "totalRecords": 124
+}
