@@ -1,0 +1,19 @@
+{
+  "name": "NodeJS-Python-REST-API-Example",
+  "version": "0.0.1",
+  "description": "A NodeJS HTTP API demo with end to end feature tests written in Python",
+  "main": "server.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha ./tests/unit/*",
+    "start": "nodemon server.js"
+  },
+  "author": "Uday Dhakal",
+  "license": "ISC",
+  "dependencies": {
+    "restify": "^4.3.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0",
+    "nodemon": "^1.11.0"
+  }
+}
